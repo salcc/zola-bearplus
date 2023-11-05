@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://salcc.github.io/zola-bearplus/sitemap.xml
